@@ -1,0 +1,7 @@
+beautifulsoup4
+distance
+fuzzywuzzy
+numpy
+scikit-learn
+streamlit
+nltk
