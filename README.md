@@ -1,7 +1,7 @@
 # Duplicate-Question-Pair-NLP
 
 
-Here you give 2 pairs of question and it will detect wethere they are duplicate or not.
+Here you give 2 pairs of question and it will detect wether they are duplicate or not.
 
 The data used here is quora data set from kaggle.
 
